@@ -22,4 +22,4 @@ Public Hello World to get used to Python and GPT-3
 7. Clone down this repo with `git clone https://github.com/daveshap/PythonGPT3Tutorial.git`
 8. Go to your [OpenAI account](https://beta.openai.com/account/api-keys) and copy your key into `openaiapikey.txt`
 9. Go into the repo with `cd PythonGPT3Tutorial`
-10. Run the demo script with `python hello_world.py`
+10. Run the demo script with `python hello_world.py`# gptpyhon
